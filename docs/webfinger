@@ -1,3 +1,0 @@
-layout: none
-permalink: .well-known/webfinger
-{"subject":"acct:booyaa@hachyderm.io","aliases":["https://hachyderm.io/@booyaa","https://hachyderm.io/users/booyaa"],"links":[{"rel":"http://webfinger.net/rel/profile-page","type":"text/html","href":"https://hachyderm.io/@booyaa"},{"rel":"self","type":"application/activity+json","href":"https://hachyderm.io/users/booyaa"},{"rel":"http://ostatus.org/schema/1.0/subscribe","template":"https://hachyderm.io/authorize_interaction?uri={uri}"}]}
