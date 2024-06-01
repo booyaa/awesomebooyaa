@@ -1,9 +1,9 @@
 ## Welcome to booyaa dot org
 
-- [blog@booyaa.wtf](https://booyaa.wtf)
+- [blog old](https://booyaa.wtf)
 - [cara](https://cara.app/booyaa)
-- [instagram](https://instagram.com/booyaa
 - [github](https://github.com/booyaa)
+- [instagram](https://instagram.com/booyaa)
 - [linkedin](https://www.linkedin.com/in/booyaa/)
 
 <hr />
